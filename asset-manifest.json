@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AI-job-chat-assistant/static/css/main.750059c8.css",
+    "main.js": "/AI-job-chat-assistant/static/js/main.cdc46e3a.js",
+    "static/js/453.6a44dda7.chunk.js": "/AI-job-chat-assistant/static/js/453.6a44dda7.chunk.js",
+    "index.html": "/AI-job-chat-assistant/index.html",
+    "main.750059c8.css.map": "/AI-job-chat-assistant/static/css/main.750059c8.css.map",
+    "main.cdc46e3a.js.map": "/AI-job-chat-assistant/static/js/main.cdc46e3a.js.map",
+    "453.6a44dda7.chunk.js.map": "/AI-job-chat-assistant/static/js/453.6a44dda7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.750059c8.css",
+    "static/js/main.cdc46e3a.js"
+  ]
+}
