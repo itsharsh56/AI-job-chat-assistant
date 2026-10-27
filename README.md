@@ -369,12 +369,3 @@ The recording should demonstrate:
 7. Duplicate application handling.
 8. Application status tracking.
 
-## Documentation
-
-- [Product requirements](./PRD.md)
-- [Architecture](./ARCHITECTURE.md)
-- [Agent design](./AGENTS.md)
-- [Database design](./DATABASE.md)
-- [API specification](./API.md)
-- [UI design](./DESIGN.md)
-- [Implementation plan](./IMPLEMENTATION_PLAN.md)
