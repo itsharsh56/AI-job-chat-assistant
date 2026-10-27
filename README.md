@@ -147,12 +147,6 @@ server/
     resumeParser.js
   app.js
 
-API.md
-ARCHITECTURE.md
-DATABASE.md
-DESIGN.md
-IMPLEMENTATION_PLAN.md
-PRD.md
 ```
 
 ## Prerequisites
@@ -276,7 +270,6 @@ REACT_APP_API_BASE_URL=https://your-backend-domain.com/api
 | GET | `/api/applications` | List applications |
 | GET | `/api/applications/status/:jobId` | Retrieve application status |
 
-See [API.md](./API.md) for request and response details.
 
 ## Agent Architecture
 
@@ -288,8 +281,6 @@ The chat route delegates to an orchestrator in
 3. Application recording.
 4. Application status retrieval.
 
-See [AGENTS.md](./AGENTS.md) and
-[ARCHITECTURE.md](./ARCHITECTURE.md) for the full dataflow.
 
 ## Testing
 
@@ -323,19 +314,6 @@ Before submission, manually test:
 12. Duplicate application.
 13. Application status.
 
-## Deployment
-
-Frontend URL:
-
-```text
-ADD_FRONTEND_DEPLOYMENT_URL_HERE
-```
-
-Backend URL:
-
-```text
-ADD_BACKEND_DEPLOYMENT_URL_HERE
-```
 
 Production environment variables:
 
@@ -349,23 +327,4 @@ MONGO_URI=your_mongodb_connection_string
 ```
 
 Do not commit real credentials or `.env` files.
-
-## Demo Recording
-
-Recording URL:
-
-```text
-ADD_3_TO_5_MINUTE_RECORDING_URL_HERE
-```
-
-The recording should demonstrate:
-
-1. Resume upload.
-2. Resume parsing.
-3. Extracted profile details.
-4. Job recommendations.
-5. Conversational refinement.
-6. Applying to a job.
-7. Duplicate application handling.
-8. Application status tracking.
 
